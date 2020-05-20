@@ -1,0 +1,18 @@
+{
+  "description": "<p>First code release</p>",
+  "license": "Apache License 2.0",
+  "title": "CoEDL/kaldi-helpers-pron-lexicon: 0.1",
+  "version": "v0.1",
+  "upload_type": "software",
+  "publication_date": "2020-05-20",
+  "creators": [{
+      "affiliation": "The University of Queensland",
+      "name": "Ben Foley"
+    },
+    {
+      "affiliation": "The University of Queensland",
+      "name": "Nay San"
+    }
+  ],
+  "access_right": "open"
+}
